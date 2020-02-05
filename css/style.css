@@ -28,18 +28,16 @@ a:active{
 .navt2{
     padding-top:50px;
 }
-.l1,.l2{
-    height:100%;
-    width: 30%;
-}
+
 .l1{
+    width:15%;
     padding-top: 50px;
     float: left;
     
 }
 .l2{
-    padding-top:50px;
-
+    margin-top:50px;
+    width:15%;
     float: right;
     
 }
@@ -47,7 +45,7 @@ a:active{
    
     padding-top: 50px;
     float: left;
-    width: 39%;
+    width: 25%;
     height:100%
     
 }
