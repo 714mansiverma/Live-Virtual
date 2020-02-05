@@ -29,24 +29,24 @@ a:active{
     padding-top:50px;
 }
 
-.l1{
-    width:15%;
+#l1{
     padding-top: 50px;
     float: left;
-    
-}
-.l2{
-    margin-top:50px;
     width:15%;
-    float: right;
-    
 }
-.l3{
+#l2{
+    padding-top:50px;
+    width: 15%;
+    float: right;
+    margin-right:13%;
+}
+#l3{
    
     padding-top: 50px;
     float: left;
-    width: 25%;
-    height:100%
+    width: 40%;
+    margin-left:15%;
+    
     
 }
 
