@@ -1,0 +1,74 @@
+a{
+    font-size: 30px;
+    padding-left: 150px;
+    color: white;
+    
+}
+a:hover{
+    color: crimson;
+}
+a:visited{
+    color:peachpuff;
+}
+a:active{
+    color:blue
+}
+.navt{
+    background-color: black;
+}
+.navt1
+{
+    
+    padding-top: 50px;
+    height: 500px;
+    width: 400px
+    
+
+}
+.navt2{
+    padding-top:50px;
+}
+.l1,.l2{
+    height:100%;
+    width: 30%;
+}
+.l1{
+    padding-top: 50px;
+    float: left;
+    
+}
+.l2{
+    padding-top:50px;
+
+    float: right;
+    
+}
+.l3{
+   
+    padding-top: 50px;
+    float: left;
+    width: 39%;
+    height:100%
+    
+}
+
+.ul1{
+    font-size: 30px;
+    font-family: sans-serif;
+    
+}
+ul li{
+  
+ transition: width 2s;
+ transition-timing-function: ease-in-out;
+}
+.l4{
+background-image: url("C:\Users\849376\Desktop\new one\assest\1.JPG");
+background-repeat: repeat-x;
+}
+.z1:hover{
+transform: scale(1.5);
+}
+#ne{
+    color: red;
+}
