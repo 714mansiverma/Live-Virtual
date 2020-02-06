@@ -32,11 +32,11 @@ a:active{
 #l1{
     padding-top: 50px;
     float: left;
-    width:25%;
+    width:35%;
 }
 #l2{
     padding-top:50px;
-    width: 25%;
+    width: 35%;
     float: right;
     padding-right:4%;
 }
@@ -81,6 +81,6 @@ transform: scale(1.5);
         width:100%;
     }
     #l3{
-        width:30%;
+        width:50%;
     }
 }
