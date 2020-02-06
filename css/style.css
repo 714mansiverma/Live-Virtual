@@ -72,7 +72,7 @@ transform: scale(1.5);
 }
 @media only screen and (min-width:600px){
     .i1,.i2{
-        width:100%;
+        width:25%;
     }
     #l3{
         padding-top: 50px;
@@ -80,6 +80,6 @@ transform: scale(1.5);
     
     margin-left:4%;
     
-        width:20%;
+        width:50%;
     }
 }
