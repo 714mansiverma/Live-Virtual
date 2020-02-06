@@ -1,85 +1,51 @@
-a{
-    font-size: 30px;
-    padding-left: 150px;
-    color: white;
+.a1{
+    text-decoration: none;
+    padding-left: 7%;
     
 }
-a:hover{
-    color: crimson;
+a:link{
+    color:white;
 }
 a:visited{
-    color:peachpuff;
-}
-a:active{
-    color:blue
+    color:pink;
 }
 .navt{
     background-color: black;
 }
-.navt1
-{
-    
-    padding-top: 50px;
-    height: 500px;
-    width: 400px
-    
-
-}
-.navt2{
-    padding-top:50px;
-}
-
 #l1{
-    padding-top: 50px;
-    float: left;
-    width:25%;
     
+    float: left;
 }
 #l2{
-    padding-top:50px;
-    width: 25%;
-    float: right;
-    padding-right:2%;
-   
-}
-
-
-.ul1{
-    font-size: 30px;
-    font-family: sans-serif;
+    
+    
+    float:right;
     
 }
-ul li{
-  
- transition: width 2s;
- transition-timing-function: ease-in-out;
+#l3{
+    width:38.7%;
+   margin-top:0.5%;
+    float: left;
+    margin-left: 0.5%;
+    margin-bottom: 7%;
 }
-.l4{
-background-image: url("C:\Users\849376\Desktop\new one\assest\1.JPG");
-background-repeat: repeat-x;
-}
-.z1:hover{
-transform: scale(1.5);
-}
-#ne{
-    color: red;
-}
-@media only screen and (max-width:600px){
-    .i1,.i2,#l3{
+@media only screen and (max-width:600px)
+{
+    .i1,.i2,#l3,#l1,#l2{
         width: 100%;
     }
 
+
 }
-@media only screen and (min-width:600px){
+@media only screen and (min-width:600px)
+{
     .i1,.i2{
-        width:25%;
+        width:100%;
     }
     #l3{
-        padding-top: 50px;
-    float: left;
-    
-    margin-left:4%;
-    
-        width:50%;
+        width:37%;
+    }
+    #l1,#l2{
+        width: 30%;
     }
 }
