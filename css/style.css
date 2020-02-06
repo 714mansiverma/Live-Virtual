@@ -49,7 +49,16 @@ a:active{
     
     
 }
-
+@media only screen and (max-width:600px){
+.i1,.i2{
+    width:100%;}
+}
+@media only screen and (min-width:600px){
+    .i1,.i2{
+        width:100%;}
+    #l3{
+        width:30%;}
+}
 .ul1{
     font-size: 30px;
     font-family: sans-serif;
