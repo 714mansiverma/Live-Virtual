@@ -14,7 +14,7 @@ a:active{
     color:blue
 }
 .navt{
-    background-color:black;
+    background-color: black;
 }
 .navt1
 {
@@ -32,33 +32,24 @@ a:active{
 #l1{
     padding-top: 50px;
     float: left;
-    width:15%;
+    width:25%;
 }
 #l2{
     padding-top:50px;
-    width: 15%;
+    width: 25%;
     float: right;
-    margin-right:13%;
+    padding-right:4%;
 }
 #l3{
    
     padding-top: 50px;
     float: left;
-    width: 40%;
-    margin-left:15%;
+    width: 50%;
+    padding-left:4%;
     
     
 }
-@media only screen and (max-width:600px){
-.i1,.i2{
-    width:100%;}
-}
-@media only screen and (min-width:600px){
-    .i1,.i2{
-        width:100%;}
-    #l3{
-        width:30%;}
-}
+
 .ul1{
     font-size: 30px;
     font-family: sans-serif;
@@ -78,4 +69,18 @@ transform: scale(1.5);
 }
 #ne{
     color: red;
+}
+@media only screen and (max-width:600px){
+    .i1,.i2,#l3{
+        width: 100%;
+    }
+
+}
+@media only screen and (min-width:600px){
+    .i1,.i2{
+        width:100%;
+    }
+    #l3{
+        width:30%;
+    }
 }
