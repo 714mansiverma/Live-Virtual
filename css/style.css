@@ -33,14 +33,14 @@ a:active{
     padding-top: 50px;
     float: left;
     width:25%;
-    background-color: aquamarine;
+    
 }
 #l2{
     padding-top:50px;
     width: 25%;
     float: right;
     padding-right:2%;
-    background-color: blue;
+   
 }
 
 
@@ -79,7 +79,7 @@ transform: scale(1.5);
     float: left;
     
     margin-left:4%;
-    background-color: blanchedalmond;
-        width:40%;
+    
+        width:20%;
     }
 }
